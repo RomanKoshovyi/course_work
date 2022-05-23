@@ -1,0 +1,8 @@
+F:\Projects\AntiPlag\obj\Debug\AntiPlag.csproj.AssemblyReference.cache
+F:\Projects\AntiPlag\obj\Debug\AntiPlag.csproj.SuggestedBindingRedirects.cache
+F:\Projects\AntiPlag\obj\Debug\AntiPlag.csproj.CoreCompileInputs.cache
+F:\Projects\AntiPlag\bin\Debug\AntiPlag.exe.config
+F:\Projects\AntiPlag\bin\Debug\AntiPlag.exe
+F:\Projects\AntiPlag\bin\Debug\AntiPlag.pdb
+F:\Projects\AntiPlag\obj\Debug\AntiPlag.exe
+F:\Projects\AntiPlag\obj\Debug\AntiPlag.pdb
